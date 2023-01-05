@@ -1,4 +1,3 @@
-import { Component } from 'react';
 import styles from '../Filter/Filter.module.css';
 
 
